@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-10-13T22:00:00Z
-draft = true
 excerpt = "Skippersiden"
 hero = "/images/1071.jpg"
 timeToRead = 0
